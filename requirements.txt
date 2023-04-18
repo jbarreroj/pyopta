@@ -1,0 +1,6 @@
+matplotlib
+mplsoccer
+pandas
+seaborn
+typing
+xhtml2pdf
