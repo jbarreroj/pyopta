@@ -1,0 +1,23 @@
+player_id,team_id,match_position,first,last,known,shirt_number,status,captain,mins_played,successful_final_third_passes
+181284,191,Midfielder,Gonçalo Manuel,Ganchinho Guedes,Gonçalo Guedes,7,Start,0,75,7
+244847,191,Substitute,Yunus,Musah,,4,Sub,0,30,6
+132105,191,Defender,José,Gayà,,14,Start,1,90,6
+437460,191,Midfielder,Hugo,Guillamón,,6,Start,0,90,5
+56624,191,Midfielder,Daniel,Wass,,18,Start,0,75,3
+466044,191,Midfielder,Jesús,Vázquez,,32,Start,0,60,3
+421294,191,Striker,Marcos André,de Sousa Mendonça,Marcos André,22,Start,0,90,3
+439716,191,Striker,Hugo,Duro,,19,Start,0,60,3
+96767,191,Defender,Dimitri,Foulquier,,20,Start,0,90,3
+165808,191,Substitute,Hélder Wander,Sousa de Azevedo e Costa,Hélder Costa,11,Sub,0,30,2
+228611,191,Substitute,Uros,Racic,,8,Sub,0,15,2
+221511,191,Substitute,Manuel Javier,Vallejo Galván,Manu Vallejo,21,Sub,0,15,2
+72162,191,Goalkeeper,Jasper,Cillessen,,13,Start,0,90,1
+158074,191,Defender,Gabriel Armando,de Abreu,Gabriel Paulista,5,Start,0,45,1
+201895,191,Defender,Omar,Alderete,,15,Start,0,90,1
+116732,191,Substitute,Jaume,Doménech,,1,Sub,0,0,0
+208135,191,Substitute,Mouctar,Diakhaby,,12,Sub,0,45,0
+458259,191,Substitute,Alejandro,Blanco,Álex Blanco,16,Sub,0,0,0
+449027,191,Substitute,Giorgi,Mamardashvili,,28,Sub,0,0,0
+482655,191,Substitute,Pedro,Alemañ,,26,Sub,0,0,0
+92055,191,Substitute,Cristiano,Piccini,,24,Sub,0,0,0
+492900,191,Substitute,Hugo,Gonzalez,,31,Sub,0,0,0

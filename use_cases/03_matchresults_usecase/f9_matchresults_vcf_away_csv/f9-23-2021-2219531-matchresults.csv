@@ -1,0 +1,22 @@
+player_id,team_id,match_position,first,last,known,shirt_number,status,captain,mins_played,successful_final_third_passes
+437460,191,Midfielder,Hugo,Guillamón,,6,Start,0,89,9
+224860,191,Midfielder,Carlos,Soler,,10,Start,1,90,7
+466044,191,Midfielder,Jesús,Vázquez,,32,Start,0,89,7
+436234,191,Striker,Bryan,Gil,,21,Start,0,75,7
+181284,191,Striker,Gonçalo Manuel,Ganchinho Guedes,Gonçalo Guedes,7,Start,0,89,6
+96767,191,Midfielder,Dimitri,Foulquier,,20,Start,0,90,5
+439716,191,Striker,Hugo,Duro,,19,Start,0,58,2
+201895,191,Defender,Omar,Alderete,,15,Start,0,90,2
+208135,191,Defender,Mouctar,Diakhaby,,12,Start,0,90,2
+215206,191,Substitute,Maximiliano,Gómez,,9,Sub,0,32,2
+158074,191,Defender,Gabriel Armando,de Abreu,Gabriel Paulista,5,Start,0,90,1
+165808,191,Substitute,Hélder Wander,Sousa de Azevedo e Costa,Hélder Costa,11,Sub,0,1,1
+220327,191,Substitute,Eray,Cömert,,24,Sub,0,0,0
+465689,191,Substitute,Moriba,Kourouma Kourouma,Ilaix Moriba,23,Sub,0,15,0
+421294,191,Substitute,Marcos André,de Sousa Mendonça,Marcos André,22,Sub,0,1,0
+228611,191,Substitute,Uros,Racic,,8,Sub,0,1,0
+449027,191,Goalkeeper,Giorgi,Mamardashvili,,28,Start,0,90,0
+116732,191,Substitute,Jaume,Doménech,,1,Sub,0,0,0
+88489,191,Substitute,Denis,Cheryshev,,17,Sub,0,0,0
+500040,191,Substitute,Cristhian,Mosquera,,37,Sub,0,0,0
+494922,191,Substitute,Rubén,Iranzo,,39,Sub,0,0,0

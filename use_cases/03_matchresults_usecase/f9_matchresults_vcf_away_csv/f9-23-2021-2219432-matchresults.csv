@@ -1,0 +1,24 @@
+player_id,team_id,match_position,first,last,known,shirt_number,status,captain,mins_played,successful_final_third_passes
+165808,191,Midfielder,Hélder Wander,Sousa de Azevedo e Costa,Hélder Costa,11,Start,0,90,15
+224860,191,Midfielder,Carlos,Soler,,10,Start,0,90,15
+92055,191,Defender,Cristiano,Piccini,,24,Start,0,71,7
+208135,191,Defender,Mouctar,Diakhaby,,12,Start,0,90,7
+88489,191,Midfielder,Denis,Cheryshev,,17,Start,0,60,6
+228611,191,Midfielder,Uros,Racic,,8,Start,0,89,6
+132105,191,Defender,José,Gayà,,14,Start,1,90,5
+421294,191,Substitute,Marcos André,de Sousa Mendonça,Marcos André,22,Sub,0,30,4
+439716,191,Midfielder,Hugo,Duro,,19,Start,0,90,4
+181284,191,Striker,Gonçalo Manuel,Ganchinho Guedes,Gonçalo Guedes,7,Start,0,90,4
+437460,191,Defender,Hugo,Guillamón,,6,Start,0,90,3
+494922,191,Substitute,Rubén,Iranzo,,39,Sub,0,19,1
+244847,191,Substitute,Yunus,Musah,,4,Sub,0,1,0
+72162,191,Goalkeeper,Jasper,Cillessen,,13,Start,0,90,0
+492898,191,Substitute,César,Tárrega,,38,Sub,0,0,0
+163784,191,Substitute,David,Remeseiro Salgueiro,Jason,23,Sub,0,0,0
+482655,191,Substitute,Pedro,Alemañ,,26,Sub,0,0,0
+449027,191,Substitute,Giorgi,Mamardashvili,,28,Sub,0,0,0
+561387,191,Substitute,Lassina,Sangare,,40,Sub,0,0,0
+458259,191,Substitute,Alejandro,Blanco,Álex Blanco,16,Sub,0,0,0
+116732,191,Substitute,Jaume,Doménech,,1,Sub,0,0,0
+221511,191,Substitute,Manuel Javier,Vallejo Galván,Manu Vallejo,21,Sub,0,0,0
+466044,191,Substitute,Jesús,Vázquez,,32,Sub,0,0,0

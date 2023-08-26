@@ -1,0 +1,23 @@
+player_id,team_id,match_position,first,last,known,shirt_number,status,captain,mins_played,successful_final_third_passes
+437460,191,Midfielder,Hugo,Guillamón,,6,Start,0,87,8
+439716,191,Midfielder,Hugo,Duro,,19,Start,0,59,8
+224860,191,Midfielder,Carlos,Soler,,10,Start,0,90,7
+181284,191,Midfielder,Gonçalo Manuel,Ganchinho Guedes,Gonçalo Guedes,7,Start,0,75,6
+208135,191,Defender,Mouctar,Diakhaby,,12,Start,0,90,5
+56624,191,Midfielder,Daniel,Wass,,18,Start,0,90,5
+158074,191,Defender,Gabriel Armando,de Abreu,Gabriel Paulista,5,Start,0,90,4
+96767,191,Defender,Dimitri,Foulquier,,20,Start,0,75,4
+215206,191,Striker,Maximiliano,Gómez,,9,Start,0,86,4
+132105,191,Defender,José,Gayà,,14,Start,1,90,3
+72162,191,Goalkeeper,Jasper,Cillessen,,13,Start,0,90,2
+165808,191,Substitute,Hélder Wander,Sousa de Azevedo e Costa,Hélder Costa,11,Sub,0,3,2
+221511,191,Substitute,Manuel Javier,Vallejo Galván,Manu Vallejo,21,Sub,0,4,1
+244847,191,Substitute,Yunus,Musah,,4,Sub,0,15,1
+116732,191,Substitute,Jaume,Doménech,,1,Sub,0,0,0
+500040,191,Substitute,Cristhian,Mosquera,,37,Sub,0,0,0
+228611,191,Substitute,Uros,Racic,,8,Sub,0,0,0
+421294,191,Substitute,Marcos André,de Sousa Mendonça,Marcos André,22,Sub,0,31,0
+88489,191,Substitute,Denis,Cheryshev,,17,Sub,0,15,0
+466044,191,Substitute,Jesús,Vázquez,,32,Sub,0,0,0
+449027,191,Substitute,Giorgi,Mamardashvili,,28,Sub,0,0,0
+163784,191,Substitute,David,Remeseiro Salgueiro,Jason,23,Sub,0,0,0

@@ -1,0 +1,20 @@
+player_id,team_id,match_position,first,last,known,shirt_number,status,captain,mins_played,successful_final_third_passes
+222629,191,Defender,Thierry Rendall,Correia,Thierry Correia,2,Start,0,90,11
+224860,191,Midfielder,Carlos,Soler,,10,Start,0,89,8
+201895,191,Defender,Omar,Alderete,,15,Start,0,90,7
+132105,191,Defender,José,Gayà,,14,Start,1,90,6
+56624,191,Midfielder,Daniel,Wass,,18,Start,0,90,6
+228611,191,Midfielder,Uros,Racic,,8,Start,0,90,5
+88489,191,Midfielder,Denis,Cheryshev,,17,Start,0,89,4
+158074,191,Defender,Gabriel Armando,de Abreu,Gabriel Paulista,5,Start,0,90,4
+215206,191,Striker,Maximiliano,Gómez,,9,Start,0,90,4
+181284,191,Striker,Gonçalo Manuel,Ganchinho Guedes,Gonçalo Guedes,7,Start,0,78,2
+163784,191,Substitute,David,Remeseiro Salgueiro,Jason,23,Sub,0,1,1
+449027,191,Goalkeeper,Giorgi,Mamardashvili,,28,Start,0,90,1
+485339,191,Substitute,Koba,Koindredi,,27,Sub,0,0,0
+112994,191,Substitute,Rubén,Sobrino,,11,Sub,0,0,0
+488031,191,Substitute,José David,Menargues Manzanares,Joseda,34,Sub,0,0,0
+466044,191,Substitute,Jesús,Vázquez,,32,Sub,0,0,0
+221511,191,Substitute,Manuel Javier,Vallejo Galván,Manu Vallejo,21,Sub,0,12,0
+208135,191,Substitute,Mouctar,Diakhaby,,12,Sub,0,1,0
+72162,191,Substitute,Jasper,Cillessen,,13,Sub,0,0,0

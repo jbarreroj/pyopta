@@ -1,0 +1,23 @@
+player_id,team_id,match_position,first,last,known,shirt_number,status,captain,mins_played,successful_final_third_passes
+437460,191,Midfielder,Hugo,Guillamón,,6,Start,0,90,11
+221306,191,Defender,Antonio,Latorre,Toni Lato,3,Start,0,90,8
+181284,191,Striker,Gonçalo Manuel,Ganchinho Guedes,Gonçalo Guedes,7,Start,0,67,8
+215206,191,Striker,Maximiliano,Gómez,,9,Start,0,90,6
+421294,191,Substitute,Marcos André,de Sousa Mendonça,Marcos André,22,Sub,0,23,6
+96767,191,Defender,Dimitri,Foulquier,,20,Start,0,90,6
+56624,191,Midfielder,Daniel,Wass,,18,Start,0,67,4
+449027,191,Goalkeeper,Giorgi,Mamardashvili,,28,Start,0,90,2
+208135,191,Substitute,Mouctar,Diakhaby,,12,Sub,0,45,2
+244847,191,Substitute,Yunus,Musah,,4,Sub,0,45,2
+485339,191,Substitute,Koba,Koindredi,,27,Sub,0,23,2
+439716,191,Midfielder,Hugo,Duro,,19,Start,0,80,2
+201895,191,Defender,Omar,Alderete,,15,Start,0,45,2
+158074,191,Defender,Gabriel Armando,de Abreu,Gabriel Paulista,5,Start,1,90,2
+221511,191,Substitute,Manuel Javier,Vallejo Galván,Manu Vallejo,21,Sub,0,10,2
+163784,191,Midfielder,David,Remeseiro Salgueiro,Jason,23,Start,0,45,1
+165808,191,Substitute,Hélder Wander,Sousa de Azevedo e Costa,Hélder Costa,11,Sub,0,0,0
+466044,191,Substitute,Jesús,Vázquez,,32,Sub,0,0,0
+228611,191,Substitute,Uros,Racic,,8,Sub,0,0,0
+500040,191,Substitute,Cristhian,Mosquera,,37,Sub,0,0,0
+488031,191,Substitute,José David,Menargues Manzanares,Joseda,34,Sub,0,0,0
+72162,191,Substitute,Jasper,Cillessen,,13,Sub,0,0,0

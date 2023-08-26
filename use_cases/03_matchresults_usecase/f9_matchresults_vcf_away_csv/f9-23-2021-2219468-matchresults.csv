@@ -1,0 +1,23 @@
+player_id,team_id,match_position,first,last,known,shirt_number,status,captain,mins_played,successful_final_third_passes
+437460,191,Midfielder,Hugo,Guillamón,,6,Start,0,90,10
+181284,191,Striker,Gonçalo Manuel,Ganchinho Guedes,Gonçalo Guedes,7,Start,0,90,8
+208135,191,Defender,Mouctar,Diakhaby,,12,Start,0,90,3
+221306,191,Defender,Antonio,Latorre,Toni Lato,3,Start,0,72,3
+224860,191,Midfielder,Carlos,Soler,,10,Start,0,90,2
+244847,191,Midfielder,Yunus,Musah,,4,Start,0,88,2
+439716,191,Striker,Hugo,Duro,,19,Start,0,72,2
+222629,191,Defender,Thierry,Rendall Correia,Thierry Correia,2,Start,0,72,2
+96767,191,Defender,Dimitri,Foulquier,,20,Start,0,90,1
+201895,191,Defender,Omar,Alderete,,15,Start,0,54,1
+228611,191,Substitute,Uros,Racic,,8,Sub,0,2,1
+116732,191,Goalkeeper,Jaume,Doménech,,1,Start,1,90,0
+442819,191,Substitute,Cristian,Rivero,,25,Sub,0,0,0
+500040,191,Substitute,Cristhian,Mosquera,,37,Sub,0,18,0
+421294,191,Substitute,Marcos André,de Sousa Mendonça,Marcos André,22,Sub,0,0,0
+485339,191,Substitute,Koba,Koindredi,,27,Sub,0,36,0
+88489,191,Substitute,Denis,Cheryshev,,17,Sub,0,0,0
+221511,191,Substitute,Manuel Javier,Vallejo Galván,Manu Vallejo,21,Sub,0,0,0
+215206,191,Substitute,Maximiliano,Gómez,,9,Sub,0,18,0
+482669,191,Substitute,Carlos Manuel,Pérez Sánchez,Charly,35,Sub,0,0,0
+165808,191,Substitute,Hélder Wander,Sousa de Azevedo e Costa,Hélder Costa,11,Sub,0,0,0
+466044,191,Substitute,Jesús,Vázquez,,32,Sub,0,18,0

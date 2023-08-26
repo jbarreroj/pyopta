@@ -1,0 +1,24 @@
+player_id,team_id,match_position,first,last,known,shirt_number,status,captain,mins_played,successful_final_third_passes
+132105,191,Defender,José,Gayà,,14,Start,1,90,10
+465689,191,Midfielder,Moriba,Kourouma Kourouma,Ilaix Moriba,23,Start,0,90,9
+96767,191,Defender,Dimitri,Foulquier,,20,Start,0,90,9
+222629,191,Defender,Thierry,Rendall Correia,Thierry Correia,2,Start,0,90,8
+201895,191,Defender,Omar,Alderete,,15,Start,0,90,7
+224860,191,Midfielder,Carlos,Soler,,10,Start,0,74,7
+215206,191,Striker,Maximiliano,Gómez,,9,Start,0,89,6
+244847,191,Substitute,Yunus,Musah,,4,Sub,0,24,5
+220327,191,Defender,Eray,Cömert,,24,Start,0,66,4
+228611,191,Midfielder,Uros,Racic,,8,Start,0,74,3
+88489,191,Substitute,Denis,Cheryshev,,17,Sub,0,16,2
+421294,191,Striker,Marcos André,de Sousa Mendonça,Marcos André,22,Start,0,74,2
+72162,191,Goalkeeper,Jasper,Cillessen,,13,Start,0,90,1
+436234,191,Substitute,Bryan,Gil,,21,Sub,0,16,1
+181284,191,Substitute,Gonçalo Manuel,Ganchinho Guedes,Gonçalo Guedes,7,Sub,0,16,0
+567889,191,Substitute,Jesús,Santiago,,44,Sub,0,0,0
+208135,191,Substitute,Mouctar,Diakhaby,,12,Sub,0,0,0
+449027,191,Substitute,Giorgi,Mamardashvili,,28,Sub,0,0,0
+500040,191,Substitute,Cristhian,Mosquera,,37,Sub,0,0,0
+577318,191,Substitute,Mario,Dominguez,,46,Sub,0,1,0
+485339,191,Substitute,Koba,Koindredi,,18,Sub,0,0,0
+116732,191,Substitute,Jaume,Doménech,,1,Sub,0,0,0
+466044,191,Substitute,Jesús,Vázquez,,32,Sub,0,0,0

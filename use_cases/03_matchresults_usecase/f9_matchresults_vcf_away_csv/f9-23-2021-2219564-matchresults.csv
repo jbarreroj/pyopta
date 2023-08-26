@@ -1,0 +1,23 @@
+player_id,team_id,match_position,first,last,known,shirt_number,status,captain,mins_played,successful_final_third_passes
+224860,191,Midfielder,Carlos,Soler,,10,Start,0,90,13
+244847,191,Midfielder,Yunus,Musah,,4,Start,0,72,8
+437460,191,Midfielder,Hugo,Guillamón,,6,Start,0,90,8
+222629,191,Defender,Thierry,Rendall Correia,Thierry Correia,2,Start,0,90,6
+181284,191,Striker,Gonçalo Manuel,Ganchinho Guedes,Gonçalo Guedes,7,Start,0,81,5
+449027,191,Goalkeeper,Giorgi,Mamardashvili,,28,Start,0,90,3
+132105,191,Defender,José,Gayà,,14,Start,1,90,3
+465689,191,Midfielder,Moriba,Kourouma Kourouma,Ilaix Moriba,23,Start,0,45,3
+201895,191,Defender,Omar,Alderete,,15,Start,0,90,2
+228611,191,Substitute,Uros,Racic,,8,Sub,0,18,2
+158074,191,Defender,Gabriel Armando,de Abreu,Gabriel Paulista,5,Start,0,84,1
+421294,191,Substitute,Marcos André,de Sousa Mendonça,Marcos André,22,Sub,0,45,1
+500040,191,Substitute,Cristhian,Mosquera,,37,Sub,0,0,0
+96767,191,Substitute,Dimitri,Foulquier,,20,Sub,0,45,0
+72162,191,Substitute,Jasper,Cillessen,,13,Sub,0,0,0
+88489,191,Substitute,Denis,Cheryshev,,17,Sub,0,0,0
+220327,191,Substitute,Eray,Cömert,,24,Sub,0,6,0
+116732,191,Substitute,Jaume,Doménech,,1,Sub,0,0,0
+485339,191,Substitute,Koba,Koindredi,,18,Sub,0,0,0
+165808,191,Substitute,Hélder Wander,Sousa de Azevedo e Costa,Hélder Costa,11,Sub,0,0,0
+439716,191,Midfielder,Hugo,Duro,,19,Start,0,45,0
+466044,191,Substitute,Jesús,Vázquez,,32,Sub,0,9,0

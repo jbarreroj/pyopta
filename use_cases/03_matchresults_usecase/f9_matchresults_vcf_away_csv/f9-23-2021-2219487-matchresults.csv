@@ -1,0 +1,23 @@
+player_id,team_id,match_position,first,last,known,shirt_number,status,captain,mins_played,successful_final_third_passes
+221306,191,Defender,Antonio,Latorre,Toni Lato,3,Start,0,90,10
+181284,191,Striker,Gonçalo Manuel,Ganchinho Guedes,Gonçalo Guedes,7,Start,0,90,8
+220327,191,Defender,Eray,Cömert,,24,Start,0,80,6
+244847,191,Midfielder,Yunus,Musah,,4,Start,0,90,6
+222629,191,Defender,Thierry,Rendall Correia,Thierry Correia,2,Start,0,77,5
+215206,191,Substitute,Maximiliano,Gómez,,9,Sub,0,45,4
+224860,191,Midfielder,Carlos,Soler,,10,Start,1,45,4
+439716,191,Substitute,Hugo,Duro,,19,Sub,0,45,3
+208135,191,Defender,Mouctar,Diakhaby,,12,Start,0,90,3
+165808,191,Midfielder,Hélder Wander,Sousa de Azevedo e Costa,Hélder Costa,11,Start,0,45,3
+465689,191,Midfielder,Moriba,Kourouma Kourouma,Ilaix Moriba,23,Start,0,90,3
+437460,191,Substitute,Hugo,Guillamón,,6,Sub,0,10,2
+436234,191,Substitute,Bryan,Gil,,21,Sub,0,45,2
+421294,191,Striker,Marcos André,de Sousa Mendonça,Marcos André,22,Start,0,45,1
+116732,191,Substitute,Jaume,Doménech,,1,Sub,0,0,0
+88489,191,Substitute,Denis,Cheryshev,,17,Sub,0,0,0
+449027,191,Goalkeeper,Giorgi,Mamardashvili,,28,Start,0,90,0
+201895,191,Substitute,Omar,Alderete,,15,Sub,0,0,0
+228611,191,Substitute,Uros,Racic,,8,Sub,0,0,0
+96767,191,Substitute,Dimitri,Foulquier,,20,Sub,0,13,0
+500040,191,Substitute,Cristhian,Mosquera,,37,Sub,0,0,0
+466044,191,Substitute,Jesús,Vázquez,,32,Sub,0,0,0
